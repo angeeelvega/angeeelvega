@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @angeeelvega
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular and SpringBoot
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me ...
 
 <!---
