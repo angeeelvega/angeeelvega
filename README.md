@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @angeeelvega
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me ...
 
 <!---
 angeeelvega/angeeelvega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
