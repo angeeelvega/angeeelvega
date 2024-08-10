@@ -7,7 +7,7 @@
 * 💻 I'm Developer at Seguros Bolivar S.A.
 
 
-You can check out my portfolio [here]([url](https://portfolio-nextjs-angel.vercel.app/))!
+You can check out my portfolio [here](https://portfolio-nextjs-angel.vercel.app/)!
 
 # Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
