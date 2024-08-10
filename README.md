@@ -4,6 +4,7 @@
 
 * 📍 I'm based in Colombia.
 * 👀 I'm open to collaborate in side projects.
+* 💻 I'm Developer at Seguros Bolivar S.A.
 
 
 
