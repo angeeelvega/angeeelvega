@@ -4,7 +4,7 @@
 
 * 📍 I'm based in Colombia.
 * 👀 I'm open to collaborate in side projects.
-* 💻 I'm Developer at Seguros Bolivar S.A.
+* 💻 I'm Software Developer at Seguros Bolivar S.A.
 
 
 You can check out my portfolio [here](https://portfolio-nextjs-angel.vercel.app/)!
