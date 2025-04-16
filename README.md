@@ -1,6 +1,6 @@
-# 💫 About Me:
+About me:
 
-👋 Hi, I’m Ángel, I'm a highly driven software developer with two years of experience in creating durable and scalable web applications. I am adept at critical thinking, problem-solving, and adaptability, with substantial experience in agile methodologies. I possess excellent teamwork skills, including effective communication, and proficiency in English.
+Hi, I’m Ángel, I'm a highly driven software developer with two years of experience in creating durable and scalable web applications. I am adept at critical thinking, problem-solving, and adaptability, with substantial experience in agile methodologies. I possess excellent teamwork skills, including effective communication, and proficiency in English.
 
 * 📍 I'm based in Colombia.
 * 👀 I'm open to collaborate in side projects.
