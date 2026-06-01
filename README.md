@@ -20,15 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeeelvega&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff" height="165" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=angeeelvega&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9A7&ring=00C9A7&fire=ff9900&currStreakLabel=00C9A7" height="165" />
-</p>
-
----
 
 ## 🧠 Skills
 
