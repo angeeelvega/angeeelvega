@@ -1,23 +1,20 @@
-╭─────────────────────────────╮   angel@vega
-│   o  o  o    angel@dev      │   ─────────────────────────────
-├─────────────────────────────┤   OS:            Colombia
-│                             │   Host:          NyxN
-│   $ whoami                  │   Role:          Software Engineer
-│   > angel_vega              │   Shell:         building scalable software
-│                             │   Editor:        VS Code
-│   $ cat role.txt            │
-│   > software engineer       │   Languages.Code:  JavaScript, TypeScript, Python, Java
-│                             │   Languages.Web:   HTML, CSS, React, Angular, Next.js
-│   $ location                │   Frameworks:      Node.js, NestJS, Spring, FastAPI
-│   > colombia                │   Databases:       PostgreSQL, MySQL, MongoDB, Oracle
-│                             │   Cloud:           AWS, Terraform, Docker, Supabase
-│   $ status                  │   Design:          Figma, Photoshop, Illustrator
-│   > building scalable... _  │
-│                             │   Contact
-╰─────────────────────────────╯   ─────────────────────────────
-                                  Portfolio:  portfolio-angel-vega.vercel.app
-                                  LinkedIn:   angelvega1
-
-                                  GitHub Stats
-                                  ─────────────────────────────
-                                  Repos: 17    Stars: 0    Commits: —    Followers: 5
+[38;5;43m╭─────────────────────────────╮[0m    [38;5;252mangel@vega [0m[38;5;240m──────────────────[0m
+[38;5;43m│   o  o  o    angel@dev      │[0m    [38;5;208mOS:              [0m[38;5;75mColombia[0m
+[38;5;43m├─────────────────────────────┤[0m    [38;5;208mHost:            [0m[38;5;75mNyxN[0m
+[38;5;43m│                             │[0m    [38;5;208mRole:            [0m[38;5;75mSoftware Engineer[0m
+[38;5;43m│   $ whoami                  │[0m    [38;5;208mShell:           [0m[38;5;75mbuilding scalable software[0m
+[38;5;43m│   > angel_vega              │[0m    [38;5;208mEditor:          [0m[38;5;75mVS Code[0m
+[38;5;43m│                             │[0m    
+[38;5;43m│   $ cat role.txt            │[0m    [38;5;208mLanguages.Code:  [0m[38;5;75mJavaScript, TypeScript, Python, Java[0m
+[38;5;43m│   > software engineer       │[0m    [38;5;208mLanguages.Web:   [0m[38;5;75mHTML, CSS, React, Angular, Next.js[0m
+[38;5;43m│                             │[0m    [38;5;208mFrameworks:      [0m[38;5;75mNode.js, NestJS, Spring, FastAPI[0m
+[38;5;43m│   $ location                │[0m    [38;5;208mDatabases:       [0m[38;5;75mPostgreSQL, MySQL, MongoDB, Oracle[0m
+[38;5;43m│   > colombia                │[0m    [38;5;208mCloud:           [0m[38;5;75mAWS, Terraform, Docker, Supabase[0m
+[38;5;43m│                             │[0m    [38;5;208mDesign:          [0m[38;5;75mFigma, Photoshop, Illustrator[0m
+[38;5;43m│   $ status                  │[0m    
+[38;5;43m│   > building scalable... _  │[0m    [38;5;252mContact [0m[38;5;240m─────────────────────[0m
+[38;5;43m│                             │[0m    [38;5;208mPortfolio:       [0m[38;5;75mportfolio-angel-vega.vercel.app[0m
+[38;5;43m╰─────────────────────────────╯[0m    [38;5;208mLinkedIn:        [0m[38;5;75mangelvega1[0m
+                                   
+                                   [38;5;252mGitHub Stats [0m[38;5;240m────────────────[0m
+                                   [38;5;208mRepos: [0m[38;5;75m17    [0m[38;5;208mStars: [0m[38;5;75m0    [0m[38;5;208mCommits: [0m[38;5;75m—    [0m[38;5;208mFollowers: [0m[38;5;75m5[0m
