@@ -19,7 +19,7 @@
                                   [38;5;208mLinkedIn:   [0m[38;5;75mangelvega1[0m
                                   
                                   [38;5;252mGitHub Stats [0m[38;5;240m────────────────[0m
-                                  [38;5;208mRepos: [0m[38;5;75m17    [0m[38;5;208mStars: [0m[38;5;75m0    [0m[38;5;208mCommits: [0m[38;5;75m296    [0m[38;5;208mFollowers: [0m[38;5;75m5[0m
+                                  [38;5;208mRepos: [0m[38;5;75m17    [0m[38;5;208mStars: [0m[38;5;75m0    [0m[38;5;208mContributions: [0m[38;5;75m598    [0m[38;5;208mFollowers: [0m[38;5;75m5[0m
 ```
 
 <div align="center">

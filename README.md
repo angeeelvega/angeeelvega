@@ -22,7 +22,7 @@
 
                                   GitHub Stats
                                   ─────────────────────────────
-                                  Repos: 17    Stars: 0    Commits: 296    Followers: 5
+                                  Repos: 17    Stars: 0    Contributions: 598    Followers: 5
 ```
 
 <div align="center">
