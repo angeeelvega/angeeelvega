@@ -3,11 +3,11 @@
 │   o  o  o    angel@dev      │   ─────────────────────────────
 ├─────────────────────────────┤   OS:            Colombia
 │                             │   Host:          NyxN
-│   $ whoami                  │   Role:          Software Engineer
+│   $ whoami                  │   Role:          Data & AI Engineer
 │   > angel_vega              │   Shell:         building software
 │                             │   Editor:        VS Code, Cursor
 │   $ cat role.txt            │   AI Tools:      Codex, Claude Code
-│   > software engineer       │
+│   > data & ai engineer      │
 │                             │   Languages.Code:  JavaScript, TypeScript, Python, Java
 │   $ location                │   Languages.Web:   HTML, CSS, React, Angular, Next.js
 │   > colombia                │   Frameworks:      Node.js, NestJS, Spring, FastAPI
@@ -22,7 +22,7 @@
 
                                   GitHub Stats
                                   ─────────────────────────────
-                                  Repos: 17    Stars: 0    Commits: —    Followers: 5
+                                  Repos: 17    Stars: 0    Commits: 296    Followers: 5
 ```
 
 <div align="center">
