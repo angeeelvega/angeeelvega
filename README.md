@@ -2,27 +2,27 @@
 ╭─────────────────────────────╮   angel@vega
 │   o  o  o    angel@dev      │   ─────────────────────────────
 ├─────────────────────────────┤   OS:            Colombia
-│                             │   Host:          NyxN
-│   $ whoami                  │   Role:          Data & AI Engineer
-│   > angel_vega              │   Shell:         building software
-│                             │   Editor:        VS Code, Cursor
-│   $ cat role.txt            │   AI Tools:      Codex, Claude Code
-│   > data & ai engineer      │
-│                             │   Languages.Code:  JavaScript, TypeScript, Python, Java
-│   $ location                │   Languages.Web:   HTML, CSS, React, Angular, Next.js
-│   > colombia                │   Frameworks:      Node.js, NestJS, Spring, FastAPI
-│                             │   Databases:       PostgreSQL, MySQL, MongoDB, Oracle
-│   $ status                  │   Cloud:           AWS, Terraform, Docker, Supabase
-│   > building software... _  │   Design:          Figma, Photoshop, Illustrator
+│   $ whoami                  │   Host:          NyxN
+│   > angel_vega              │   Role:          Data & AI Engineer
+│                             │   Shell:         building software
+│   $ cat role.txt            │   Editor:        VS Code, Cursor
+│   > data & ai engineer      │   AI Tools:      Codex, Claude Code
 │                             │
-╰─────────────────────────────╯   Contact
+│   $ location                │   Languages.Code:  JavaScript, TypeScript, Python, Java
+│   > colombia                │   Languages.Web:   HTML, CSS, React, Angular, Next.js
+│                             │   Frameworks:      Node.js, NestJS, Spring, FastAPI
+│   $ status                  │   Databases:       PostgreSQL, MySQL, MongoDB, Oracle
+│   > building software... _  │   Cloud:           AWS, Terraform, Docker, Supabase
+│                             │   Design:          Figma, Photoshop, Illustrator
+╰─────────────────────────────╯
+                                  Contact
                                   ─────────────────────────────
                                   Portfolio:  portfolio-angel-vega.vercel.app
                                   LinkedIn:   angelvega1
 
                                   GitHub Stats
                                   ─────────────────────────────
-                                  Repos: 17    Stars: 0    Contributions: 598    Followers: 5
+                                  Repos: 17    Stars: 0    Contributions: 599    Followers: 5
 ```
 
 <div align="center">
