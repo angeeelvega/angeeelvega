@@ -161,6 +161,18 @@ def render(stats):
     return "```\n" + "\n".join(body) + "\n```\n" + LINKS
 
 
+def _timestamp_block():
+    # Colombia time (UTC-5, no DST).
+    cot = datetime.timezone(datetime.timedelta(hours=-5))
+    now = datetime.datetime.now(datetime.timezone.utc).astimezone(cot)
+    stamp = now.strftime("%b %d, %Y · %I:%M %p").replace("· 0", "· ")
+    return (
+        '\n<div align="center">\n'
+        f"<sub>⏱ Last updated: {stamp} (COT) · auto-updated daily</sub>\n"
+        "</div>\n"
+    )
+
+
 def main():
     try:
         stats = fetch_stats()
@@ -168,9 +180,19 @@ def main():
         print(f"Could not fetch stats ({e}); leaving README.md unchanged.")
         return 0
     print("Stats:", stats)
+    body = render(stats)
+    try:
+        existing = open("README.md", encoding="utf-8").read()
+    except FileNotFoundError:
+        existing = ""
+    # Only rewrite (and bump the timestamp) when the actual stats/content change,
+    # so an unchanged day produces no commit.
+    if existing.startswith(body):
+        print("No stat changes; README left as-is (timestamp preserved).")
+        return 0
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(render(stats))
-    print("Wrote README.md")
+        f.write(body + _timestamp_block())
+    print("Wrote README.md (content changed).")
     return 0
 
 

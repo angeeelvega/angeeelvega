@@ -2,7 +2,7 @@ name: Update README stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
+    - cron: "0 4 * * *"   # daily 04:00 UTC = 11:00 PM Colombia (UTC-5)
   push:
     branches: [main]
     paths:
