@@ -87,14 +87,17 @@ def fetch_stats():
     """Return dict with repos, stars, followers, contrib. Contributions include
     private activity (totalCommitContributions + restrictedContributionsCount
     summed across every year since the account was created)."""
+    # Counts ALL owned repos the token can see: with ACCESS_TOKEN (repo scope)
+    # this includes private repos → whole-account totals. With only GITHUB_TOKEN
+    # it falls back to public repos.
     base = _gql(
         '{ user(login: "%s") { createdAt followers { totalCount } '
-        'pub: repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 100) '
+        'repos: repositories(ownerAffiliations: OWNER, first: 100) '
         '{ totalCount nodes { stargazerCount } } } }' % USER
     )["user"]
 
-    repos = base["pub"]["totalCount"]
-    stars = sum(n["stargazerCount"] for n in base["pub"]["nodes"])
+    repos = base["repos"]["totalCount"]
+    stars = sum(n["stargazerCount"] for n in base["repos"]["nodes"])
     followers = base["followers"]["totalCount"]
 
     year0 = int(base["createdAt"][:4])
