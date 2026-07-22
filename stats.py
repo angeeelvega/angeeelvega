@@ -180,19 +180,11 @@ def main():
         print(f"Could not fetch stats ({e}); leaving README.md unchanged.")
         return 0
     print("Stats:", stats)
-    body = render(stats)
-    try:
-        existing = open("README.md", encoding="utf-8").read()
-    except FileNotFoundError:
-        existing = ""
-    # Only rewrite (and bump the timestamp) when the actual stats/content change,
-    # so an unchanged day produces no commit.
-    if existing.startswith(body):
-        print("No stat changes; README left as-is (timestamp preserved).")
-        return 0
+    # Always rewrite with a fresh "Last updated" timestamp, so every run bumps
+    # the time and produces a commit — even when the stats themselves are unchanged.
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(body + _timestamp_block())
-    print("Wrote README.md (content changed).")
+        f.write(render(stats) + _timestamp_block())
+    print("Wrote README.md")
     return 0
 
 
